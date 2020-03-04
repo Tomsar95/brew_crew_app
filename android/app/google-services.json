@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749810651381",
+    "firebase_url": "https://bre-crew-app-firestore.firebaseio.com",
+    "project_id": "bre-crew-app-firestore",
+    "storage_bucket": "bre-crew-app-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749810651381:android:352b13cc06bd78e79475bc",
+        "android_client_info": {
+          "package_name": "com.example.bre_crew_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749810651381-luip2r4k7l6bkvb69t3tni8rcnk452nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_nnO2gnmQtYeP2UjhlBH6ZSJZZ6vFmCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749810651381-luip2r4k7l6bkvb69t3tni8rcnk452nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
